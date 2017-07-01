@@ -1,0 +1,22 @@
+{
+  "name": "BESTKEEP",
+  "homepage": "https://github.com/244194567/bestkeep",
+  "authors": [
+    "Your Name <you@example.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "less": "^2.7.2",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
